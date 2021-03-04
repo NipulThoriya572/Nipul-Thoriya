@@ -1,5 +1,6 @@
 <?php
-    include "./include/header2.php";
+  //changes by team1   
+include "./include/header2.php";
 ?>
   <!-- Page Output -->
     <section class="padding-tb-100px">
